@@ -6,7 +6,7 @@ fwrite($fp, 'mice');
 fclose($fp);
 
 echo "hello outside project \r\n" ;
-$servername="172.30.160.75";
+$servername="172.30.201.224";
 $username="ose";
 $password="openshift";
 $dbname="quotes";
